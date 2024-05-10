@@ -1,0 +1,10 @@
+# ninja log v5
+10	1805	7352686124829216	build.ninja	1e6b0c01027fcd02
+24	463	7352679496013647	CMakeFiles/complex_1__test.dir/src/complex.cpp.obj	70fbe067fa8dfa3a
+6	476	7352679496173201	CMakeFiles/complex_1__test.dir/test/test_complex.cpp.obj	14ba5fb97cd39203
+34	5199	7352679543436901	CMakeFiles/complex_1__test.dir/test/main_gtest.cpp.obj	62546f025b961866
+464	8812	7352679579453111	googletest-master/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	3d2864cf9e39b074
+24712	25426	7352679745729014	lib/libgmock.a	289fb479bdfa782
+477	18763	7352679678777091	googletest-master/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	dba9dccba2850f3
+18769	24712	7352679738577338	lib/libgtest.a	b0c0bb2221528330
+25427	31672	7352679808088275	complex_1__test.exe	22a7d407a73c50f8
